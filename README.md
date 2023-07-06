@@ -1,7 +1,9 @@
-# Machine Learning Fundamental
-Decision tree builds regression or classification models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes.
+# Regression Analysis Fundamental 
+Regression analysis is a statistical method used to estimate the relationship between a dependent variable and one or more independent variables. It can be used to assess the strength of the relationship between variables and to model the future relationship between them.
 
+This folder contain:
 - Correlation Analysis
 - Decision Tree Regression
 - Random Forest Regression
+- Linear Regression
 - Logistic Linear Regression
